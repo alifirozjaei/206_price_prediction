@@ -1,0 +1,176 @@
+1688631536918	geckodriver	INFO	Listening on 127.0.0.1:13167
+1688631539991	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofileZ2gZmC"
+1688631569967	geckodriver	INFO	Listening on 127.0.0.1:13220
+1688631573706	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofileUcNdMU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688631574182	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688631574286	Marionette	INFO	Listening on port 13231
+Read port: 13231
+1688631574740	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1688632989363	Marionette	INFO	Stopped listening on port 13231
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1688633007138	geckodriver	INFO	Listening on 127.0.0.1:14307
+1688633010196	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofileUhRw00"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688633010666	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688633010774	Marionette	INFO	Listening on port 14319
+Read port: 14319
+1688633011211	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1688633459095	Marionette	INFO	Stopped listening on port 14319
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1688633462282	geckodriver	INFO	Listening on 127.0.0.1:14671
+1688633465350	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofile7rvOIp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688633465829	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688633465926	Marionette	INFO	Listening on port 14682
+Read port: 14682
+1688633466339	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1688634562596	Marionette	INFO	Stopped listening on port 14682
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1688634570105	geckodriver	INFO	Listening on 127.0.0.1:1720
+1688634573151	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofileqkUeiE"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688634573679	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688634573788	Marionette	INFO	Listening on port 1732
+Read port: 1732
+1688634574015	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+1688635338161	geckodriver	INFO	Listening on 127.0.0.1:2260
+1688635341224	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofileIvEAqb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688635341756	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688635341857	Marionette	INFO	Listening on port 2276
+Read port: 2276
+1688635342152	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1688642516772	geckodriver	INFO	Listening on 127.0.0.1:12577
+1688642519820	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofile3FvRl0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688642520358	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688642520789	Marionette	INFO	Listening on port 12592
+Read port: 12592
+1688642521168	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1688645002193	Marionette	INFO	Stopped listening on port 12592
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1688645195407	geckodriver	INFO	Listening on 127.0.0.1:12793
+1688645198457	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofilej9orkn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688645198950	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688645199295	Marionette	INFO	Listening on port 12805
+Read port: 12805
+1688645199667	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1688645243163	Marionette	INFO	Stopped listening on port 12805
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1688645244706	geckodriver	INFO	Listening on 127.0.0.1:12910
+1688645247737	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofileGM6jt6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688645248217	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688645248503	Marionette	INFO	Listening on port 12921
+Read port: 12921
+1688645248881	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+1688645276411	Marionette	INFO	Stopped listening on port 12921
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1688645305951	geckodriver	INFO	Listening on 127.0.0.1:13034
+1688645309035	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofileypGbIQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688645309520	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688645309800	Marionette	INFO	Listening on port 13046
+Read port: 13046
+1688645310154	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1688645723561	Marionette	INFO	Stopped listening on port 13046
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1688645735405	geckodriver	INFO	Listening on 127.0.0.1:14325
+1688645738476	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofilesJHgya"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688645738972	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688645739249	Marionette	INFO	Listening on port 14336
+Read port: 14336
+1688645739618	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1688645766009	geckodriver	INFO	Listening on 127.0.0.1:14405
+1688645769046	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofileghuupv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688645769531	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688645769896	Marionette	INFO	Listening on port 14417
+Read port: 14417
+1688645770247	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+1688646037942	geckodriver	INFO	Listening on 127.0.0.1:14662
+1688646041003	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofilePshGuA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688646041479	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688646041760	Marionette	INFO	Listening on port 14673
+Read port: 14673
+1688646042006	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+1688648386333	Marionette	INFO	Stopped listening on port 14673
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1688648566626	geckodriver	INFO	Listening on 127.0.0.1:1809
+1688648569669	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofileH26ZCI"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688648570186	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688648570293	Marionette	INFO	Listening on port 1822
+Read port: 1822
+1688648570545	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+Exiting due to channel error.
+Exiting due to channel error.
+8648586782	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\Ali\\AppData\\Local\\Temp\\rust_mozprofiledmYEUs"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688648587223	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688648587311	Marionette	INFO	Listening on port 1865
+Read port: 1865
+1688648587527	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
